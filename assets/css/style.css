@@ -3,5 +3,22 @@ h1 {
 }
 
 img {
-    align-self: center;
+    display: block;
+    margin: auto;
+    width: 40rem;
+}
+
+.temps {
+    text-align: center;
+}
+
+.icone {
+    color: orange;
+}
+
+h2,
+h3,
+ul,
+.etape {
+    margin-left: 39rem;
 }
