@@ -12,13 +12,13 @@ img {
     text-align: center;
 }
 
-.icone {
-    color: orange;
-}
-
 h2,
 h3,
 ul,
 .etape {
     margin-left: 39rem;
+}
+
+span {
+    color: orange
 }
