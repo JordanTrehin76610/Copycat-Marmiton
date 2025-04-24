@@ -6,6 +6,7 @@ img {
     display: block;
     margin: auto;
     width: 40rem;
+    border-radius: 2rem;
 }
 
 .temps {
@@ -16,9 +17,23 @@ h2,
 h3,
 ul,
 .etape {
-    margin-left: 39rem;
+    margin-left: 5rem;
 }
 
 span {
     color: orange
+}
+
+body {
+    background-color: rgb(187, 186, 186);
+}
+
+.box {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 35rem;
+    margin-right: 35rem;
+    height: 140rem;
+    background-color: white;
+    border-radius: 2rem;
 }
